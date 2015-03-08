@@ -48,6 +48,8 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 Inte
 CITATION
 -----------
 
+Petrillo, A., & Shrivastav, O. (2015, March 7). Petrillo.Shrivastav_Pennsylvania_2013_Salary_Subset. Retrieved from https://github.com/osheen07/Petrillo.Shrivastav_Pennsylvania_2013_Salary_Subset/
+
 -----------------
 Wiki Username
 -----------------
