@@ -60,7 +60,7 @@ Username: osheen07
 GITHUB REPOSITORY FOR THE SUBSET
 -----------------------------------
 
-USERNAME: osheen07
+Username: osheen07
 
 Name	: Petrillo.Shrivastav_Pennsylvania_2013_Salary_Subset
 
