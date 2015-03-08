@@ -49,15 +49,17 @@ CITATION
 -----------
 
 -----------------
-Wiki Username:  
+Wiki Username
 -----------------
 
 Username: osheen07
 
---------------------
-GITHUB REPOSITORY
---------------------
+-----------------------------------
+GITHUB REPOSITORY FOR THE SUBSET
+-----------------------------------
 
-NAME	:
+USERNAME: osheen07
 
-URL	:
+Name	: Petrillo.Shrivastav_Pennsylvania_2013_Salary_Subset
+
+URL	: https://github.com/osheen07/Petrillo.Shrivastav_Pennsylvania_2013_Salary_Subset
