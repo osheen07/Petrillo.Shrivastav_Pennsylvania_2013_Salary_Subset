@@ -25,7 +25,7 @@ This data is a susbet of 2013 Salaries: Pennsylvania State System of Higher Educ
 
 Name	  : Petrillo.Shrivastav_Pennsylvania_2013_Salary_Subset
 
-URL	  : https://github.com/osheen07/INFM600_Information_Organization.git
+URL	  : https://github.com/osheen07/Petrillo.Shrivastav_Pennsylvania_2013_Salary_Subset
 
 This subset Petrillo.Shrivastav_Pennsylvania_2013_Salary_Subset, an Excel workbook of 323 KB size, contains:
 
@@ -55,6 +55,14 @@ Wiki Username
 -----------------
 
 Username: osheen07
+
+-----------------
+Wiki URL
+-----------------
+
+URL for original dataset template: http://wiki.urbanhogfarm.com/index.php/2013_Salaries:_Pennsylvania_State_System_of_Higher_Education
+
+URL for subset template		 : http://wiki.urbanhogfarm.com/index.php/Pennsylvania_2013_Salaries
 
 -----------------------------------
 GITHUB REPOSITORY FOR THE SUBSET
